@@ -1,0 +1,47 @@
+
+.logo{
+    max-width: 180px;
+    margin-bottom: 10px;
+}
+.bloc_top a{
+    color: black;  
+}
+.bloc_li{
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.bloc_top a:hover{
+   background-color: cornflowerblue;
+   color: black;
+}
+main{
+    padding: 100px;
+    background-color: #e0e0e0;
+}
+.bloc_card{
+    background-color: #e0e0e0;
+}
+.row{
+    max-width: 85%;
+    margin: auto;
+}
+.view {
+    background: url("file:///D:/st/test/img/1.png")no-repeat center center;
+
+    background-size: cover;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+
